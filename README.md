@@ -5,7 +5,7 @@ O Bot foi feito apenas para fins de estudos e conforme o meu desenvolvimento, ir
 ### Para funcionar de forma segura, recomendo fazer o login através do usuário e senha.
 ## Não é necessário a sua conta da Metamask
 
-![Login bomb](imgREADME/login.png)
+![Login bomb](imgREADME/login.jpg)
 
 
 Eu originalmente desenvolvi este bot para meu uso pessoal. Resolvi postar aqui para ajudar as pessoas.

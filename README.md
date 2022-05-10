@@ -1,5 +1,5 @@
 # bot-bombcrypto
-Meu primeiro projeto em Python, resolvi fazer um bot para um NFT chamado BombCrypto.
+Projeto em Python, resolvi fazer um bot para um NFT chamado BombCrypto.
 O Bot foi feito apenas para fins de estudos e conforme o meu desenvolvimento, irei adicionar novas funcionalidades.
 
 ### Para funcionar de forma segura, recomendo fazer o login através do usuário e senha.
